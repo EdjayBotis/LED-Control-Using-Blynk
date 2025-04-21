@@ -15,10 +15,15 @@ Both features are controlled from the Blynk App using **virtual pins**.
 - A working WiFi connection
 - 5mm LED
 - Jumper wire/s (if needed)
+- 220 ohm resistor
+- breadboard (optional)
+![image](https://github.com/user-attachments/assets/d6339865-5796-4b32-9152-0d726fcabd7a)
 
 ---
 
-## 📲 Blynk Setup
+
+
+## Blynk Setup
 
 1. Create a **New Template** in Blynk.Console
 2. Copy:
@@ -32,6 +37,13 @@ Both features are controlled from the Blynk App using **virtual pins**.
    - Add a **Switch** widget → link to **V0**
    - Add a **Slider** widget → link to **V1**
      - Slider range: 0 to 2000 (milliseconds)
+   - Add a gauge widget → link to **V1**
+   - 
+  should look like this in Mobile Dashboard
+![491284071_1396957121315552_7708263612619715831_n](https://github.com/user-attachments/assets/83b2d495-c749-4f0c-be6b-25c192fc6223)
+
+should look like this in Web
+![image](https://github.com/user-attachments/assets/779f7e90-73dc-4277-abfd-27e4b537d6c2)
 
 ## 🔧 Code Configuration
 
