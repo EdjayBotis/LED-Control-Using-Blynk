@@ -1,13 +1,13 @@
-#define BLYNK_TEMPLATE_ID "TMPL6_DVInrxj"
-#define BLYNK_TEMPLATE_NAME "FIRST PROJECT"
-#define BLYNK_AUTH_TOKEN "kuImSK8pj7GTkuGqZQFRHx_fo5YbaOwO"
+#define BLYNK_TEMPLATE_ID "Enter Template ID here"
+#define BLYNK_TEMPLATE_NAME "Enter Template Name here"
+#define BLYNK_AUTH_TOKEN "Enter authentication Token here"
 
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
 
-char ssid[] = "ZTE_2.4G_4DPYF2";
-char pass[] = "bHER3X4Z";
+char ssid[] = "Enter your wifi id here";
+char pass[] = "Enter your wifi password here";
 
 #define LED_PIN 2
 
