@@ -22,8 +22,6 @@ Both features are controlled from the Blynk App using **virtual pins**.
 
 ---
 
-
-
 ## Blynk Setup
 
 1. Create a **New Template** in Blynk.Console
@@ -46,7 +44,7 @@ Both features are controlled from the Blynk App using **virtual pins**.
 should look like this in Web
 ![image](https://github.com/user-attachments/assets/779f7e90-73dc-4277-abfd-27e4b537d6c2)
 
-## 🔧 Code Configuration
+## Code Configuration
 
 Edit these lines with your own Blynk and WiFi information:
 
@@ -61,7 +59,7 @@ char pass[] = "YourWiFiPassword";
 
 ---
 
-## 🖥Serial Monitor
+## Serial Monitor
 
 When powered, the ESP32 will:
 - Try connecting to WiFi (shows dots `.....`)
