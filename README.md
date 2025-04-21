@@ -17,6 +17,7 @@ Both features are controlled from the Blynk App using **virtual pins**.
 - Jumper wire/s (if needed)
 - 220 ohm resistor
 - breadboard (optional)
+  
 ![image](https://github.com/user-attachments/assets/d6339865-5796-4b32-9152-0d726fcabd7a)
 
 ---
